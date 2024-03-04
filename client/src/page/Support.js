@@ -3,7 +3,7 @@ import React from "react";
 const Support = () => {
   return (
     <div className="max-2xl:h-[262px] max-xl:h-[410px] max-md:h-[540px] w-full bg-white  ">
-      <div className="w-full h-full grid max-2xl:grid-cols-6  max-xl:grid-cols-4 max-lg:grid-cols-3 max-md:grid-cols-2 justify-between px-24 max-md:px-10 py-10 text-sm ">
+      <div className="w-full h-full grid-cols-6 grid  max-xl:grid-cols-4 max-lg:grid-cols-3 max-md:grid-cols-2 justify-between px-24 max-md:px-10 py-10 text-sm ">
         <div className="space-y-3">
           <p className="font-medium cursor-pointer hover:text-slate-400">
             Quick Links

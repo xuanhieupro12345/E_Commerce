@@ -43,7 +43,6 @@ const ForgotPassword = () => {
           </form>
         </div>
       </div>
-      <Support />
     </div>
   );
 };
